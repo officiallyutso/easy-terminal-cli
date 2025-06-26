@@ -1,0 +1,28 @@
+# Source files
+src/
+tsconfig.json
+tsup.config.ts
+
+# Development
+.git/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tests
+__tests__/
+*.test.*
+*.spec.*
+
+# Documentation
+docs/
+examples/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+
+# Logs
+*.log
+npm-debug.log*
